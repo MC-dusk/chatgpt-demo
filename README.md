@@ -6,7 +6,7 @@ A demo repo based on [OpenAI GPT-3.5 Turbo API.](https://platform.openai.com/doc
 
 **🍿 Live preview**: https://chatgpt.ddiu.me
 
-> ⚠️ Notice: Our API Key limit has been exhausted. So the demo site is not available now.
+> ⚠️ Notice: Our API Key limit has been exhausted. So the demo site is not available now
 
 ![chat-logo](https://cdn.jsdelivr.net/gh/yzh990918/static@master/chat-logo.webp)
 
